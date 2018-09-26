@@ -193,10 +193,12 @@ div.panel.panel-default {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: white;
+    background-color: #4acaa8;
+    color: white;
     width: 80%;
     height: 80%;
     border-radius: 10px;
+    box-shadow: 5px 5px 20px #777;
 }
 
 .sidenav .links .interests-link {
@@ -212,10 +214,12 @@ div.panel.panel-default {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: white;
+    background-color: #4acaa8;
+    color: white;
     width: 80%;
     height: 80%;
     border-radius: 10px;
+    box-shadow: 5px 5px 20px #777;
 }
 
 .sidenav .links .experience-link {
@@ -231,10 +235,12 @@ div.panel.panel-default {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: white;
+    background-color: #4acaa8;
+    color: white;
     width: 80%;
     height: 80%;
     border-radius: 10px;
+    box-shadow: 5px 5px 20px #777;
 }
 
 .sidenav .profile{
