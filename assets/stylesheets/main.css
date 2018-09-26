@@ -170,11 +170,21 @@ div.panel.panel-default {
     background-color: #4acaa8;
 }
 
+.sidenav .profile{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    height: 40%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
 .sidenav .links {
     position: absolute;
     display: flex;
     justify-content: center;
-    top: 42%;
+    top: 40%;
     width: 100%;
     height: 40%;
     display: flex;
@@ -243,14 +253,14 @@ div.panel.panel-default {
     box-shadow: 5px 5px 20px #777;
 }
 
-.sidenav .profile{
+.sidenav .contact {
     position: absolute;
     display: flex;
     justify-content: center;
+    top: 82%;
+    height: 14%;
     width: 80%;
-    height: 41%;
-    padding-top: 10%;
-    padding-bottom: 10%;
+    background-color: white;
 }
 
 #no-pad {
