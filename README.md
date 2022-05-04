@@ -10,9 +10,8 @@ To view changes to the site locally, simply open up the **index.html** with the 
 
 ## Credit
 ### Template
-- Hyperspace by HTML5 UP
+- Hyperspace by [HTML5 UP](https://html5up.net/)
 - html5up.net | @ajlkn
-- aj@lkn.io | @ajlkn
 - Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 ### Color Palette:
